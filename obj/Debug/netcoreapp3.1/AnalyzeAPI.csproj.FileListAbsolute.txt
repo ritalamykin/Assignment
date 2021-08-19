@@ -1,0 +1,14 @@
+/Users/ritalamykin/Projects/rita/rita/bin/Debug/netcoreapp3.1/AnalyzeAPI.deps.json
+/Users/ritalamykin/Projects/rita/rita/bin/Debug/netcoreapp3.1/AnalyzeAPI.runtimeconfig.json
+/Users/ritalamykin/Projects/rita/rita/bin/Debug/netcoreapp3.1/AnalyzeAPI.runtimeconfig.dev.json
+/Users/ritalamykin/Projects/rita/rita/bin/Debug/netcoreapp3.1/AnalyzeAPI.dll
+/Users/ritalamykin/Projects/rita/rita/bin/Debug/netcoreapp3.1/AnalyzeAPI.pdb
+/Users/ritalamykin/Projects/rita/rita/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/ritalamykin/Projects/rita/rita/obj/Debug/netcoreapp3.1/AnalyzeAPI.csproj.AssemblyReference.cache
+/Users/ritalamykin/Projects/rita/rita/obj/Debug/netcoreapp3.1/AnalyzeAPI.AssemblyInfoInputs.cache
+/Users/ritalamykin/Projects/rita/rita/obj/Debug/netcoreapp3.1/AnalyzeAPI.AssemblyInfo.cs
+/Users/ritalamykin/Projects/rita/rita/obj/Debug/netcoreapp3.1/AnalyzeAPI.csproj.CoreCompileInputs.cache
+/Users/ritalamykin/Projects/rita/rita/obj/Debug/netcoreapp3.1/AnalyzeAPI.csproj.CopyComplete
+/Users/ritalamykin/Projects/rita/rita/obj/Debug/netcoreapp3.1/AnalyzeAPI.dll
+/Users/ritalamykin/Projects/rita/rita/obj/Debug/netcoreapp3.1/AnalyzeAPI.pdb
+/Users/ritalamykin/Projects/rita/rita/obj/Debug/netcoreapp3.1/AnalyzeAPI.genruntimeconfig.cache

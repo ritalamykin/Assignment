@@ -1,0 +1,14 @@
+/Users/ritalamykin/Projects/rita/rita/bin/Debug/netcoreapp3.1/rita.deps.json
+/Users/ritalamykin/Projects/rita/rita/bin/Debug/netcoreapp3.1/rita.runtimeconfig.json
+/Users/ritalamykin/Projects/rita/rita/bin/Debug/netcoreapp3.1/rita.runtimeconfig.dev.json
+/Users/ritalamykin/Projects/rita/rita/bin/Debug/netcoreapp3.1/rita.dll
+/Users/ritalamykin/Projects/rita/rita/bin/Debug/netcoreapp3.1/rita.pdb
+/Users/ritalamykin/Projects/rita/rita/obj/Debug/netcoreapp3.1/rita.csproj.AssemblyReference.cache
+/Users/ritalamykin/Projects/rita/rita/obj/Debug/netcoreapp3.1/rita.AssemblyInfoInputs.cache
+/Users/ritalamykin/Projects/rita/rita/obj/Debug/netcoreapp3.1/rita.AssemblyInfo.cs
+/Users/ritalamykin/Projects/rita/rita/obj/Debug/netcoreapp3.1/rita.csproj.CoreCompileInputs.cache
+/Users/ritalamykin/Projects/rita/rita/obj/Debug/netcoreapp3.1/rita.dll
+/Users/ritalamykin/Projects/rita/rita/obj/Debug/netcoreapp3.1/rita.pdb
+/Users/ritalamykin/Projects/rita/rita/obj/Debug/netcoreapp3.1/rita.genruntimeconfig.cache
+/Users/ritalamykin/Projects/rita/rita/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/ritalamykin/Projects/rita/rita/obj/Debug/netcoreapp3.1/rita.csproj.CopyComplete
